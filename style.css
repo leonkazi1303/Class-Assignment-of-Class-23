@@ -1,0 +1,18 @@
+.full-website{
+    width: 1000px;
+    margin: 50px auto;
+}
+.main-div{
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.158);
+    padding: 20px;
+}
+.sub-div1 img{
+    max-width: 150px;
+}
+.sub-div5 {
+	margin-left: -142px;
+}
+.sub-div3 img{
+    width: 290px;
+}
